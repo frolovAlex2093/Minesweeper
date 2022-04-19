@@ -7,7 +7,7 @@
     background-color: #333;
     display: flex;
     align-items: center;
-    font-size: 3rem;
+    font-size: 3vmin;
     flex-direction: column;
     color: white;
   }
